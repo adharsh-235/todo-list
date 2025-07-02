@@ -1,7 +1,7 @@
 
-import Input from "./input";
-import Card from "./Card";
+import Card from "./card";
 import { useEffect, useState } from "react";
+
 const Task = () => {
   const initial_task = []
     ;
