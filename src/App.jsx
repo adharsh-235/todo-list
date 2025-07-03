@@ -2,7 +2,7 @@
 import './App.css'
 import Task from './components/Task';
 import {BrowserRouter,Routes,Route} from 'react-router-dom'
-import About from './components/about';
+import About from './components/About';
 import Navbar from './components/navbar';
 function App() {
  
